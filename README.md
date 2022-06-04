@@ -1,0 +1,2 @@
+# alioth_aosp_romlisthub
+红米K40类原生ROM链接直达
